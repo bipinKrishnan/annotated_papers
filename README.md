@@ -8,11 +8,11 @@ This repo contains my annotated papers
     
 2. Deep Convolutional Generative Adversarial Networks(DCGANs)
 
-    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1511.06434)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/dcgan.pdf)
+    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1511.06434)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/dcgan.pdf)  [![code](https://img.shields.io/badge/code-PyTorch-ff69b4)](https://github.com/bipinKrishnan/Paper2code_DCGAN)
     
 3. Cyclical Learning Rates for Training Neural Networks
 
-    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1506.01186)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/cyclical_lr.pdf)
+    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1506.01186)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/cyclical_lr.pdf)  [![code](https://img.shields.io/badge/code-PyTorch-ff69b4)](https://github.com/bipinKrishnan/fastai_course/blob/master/cyclicLR_scratch.ipynb)
     
     
 4. Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates
