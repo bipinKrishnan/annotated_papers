@@ -4,7 +4,7 @@ This repo contains my annotated papers
 --------------------------------------------------------------
 1. Generative Adversarial Networks
 
-    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1406.2661)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/vanilla_gan.pdf)  [![code](https://img.shields.io/badge/code-blue)](https://github.com/bipinKrishnan/Paper2Code_vanillaGAN)
+    [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1406.2661)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/vanilla_gan.pdf)  [![code](https://img.shields.io/badge/code-implementation-brown)](https://github.com/bipinKrishnan/Paper2Code_vanillaGAN)
     
 2. Deep Convolutional Generative Adversarial Networks(DCGANs)
 
