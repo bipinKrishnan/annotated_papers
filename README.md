@@ -28,4 +28,4 @@ This repo contains my annotated papers
     
  
     
-**NB**: Papers are annotated using **Evince**
+**NB**: Papers are annotated using [**Evince**](https://wiki.gnome.org/Apps/Evince)
