@@ -26,6 +26,6 @@ This repo contains my annotated papers
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1801.06146)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/blob/main/ULMFiT.pdf)
     
- 
+-----------------------------------------------
     
 **NB**: Papers are annotated using [**Evince**](https://wiki.gnome.org/Apps/Evince)
