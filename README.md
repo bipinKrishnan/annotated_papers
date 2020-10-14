@@ -1,6 +1,7 @@
 This repo contains my annotated papers
 
-**Papers are annotated using Evince**
+[NB: Papers are annotated using **Evince**]
+
 --------------------------------------------------------------
 1. Generative Adversarial Networks
 
