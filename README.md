@@ -10,20 +10,20 @@ This repo contains my annotated papers
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1511.06434)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/dcgan.pdf)  [![code](https://img.shields.io/badge/code-PyTorch-ff69b4)](https://github.com/bipinKrishnan/Paper2code_DCGAN)
     
-3. Cyclical Learning Rates for Training Neural Networks
+3. **Cyclical Learning Rates for Training Neural Networks**
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1506.01186)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/cyclical_lr.pdf)  [![code](https://img.shields.io/badge/code-PyTorch-ff69b4)](https://github.com/bipinKrishnan/fastai_course/blob/master/cyclicLR_scratch.ipynb)
     
     
-4. Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates
+4. **Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates**
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1708.07120)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/super_conv.pdf)  
     
-5. Mixup: Beyond Empirical Risk Minimization
+5. **Mixup: Beyond Empirical Risk Minimization**
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1710.09412)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/mix_up.pdf)
     
-6. Universal Language Model Fine-tuning for Text Classification(ULMFiT)
+6. **Universal Language Model Fine-tuning for Text Classification(ULMFiT)**
 
     [![original](https://img.shields.io/badge/original-paper-brightgreen)](https://arxiv.org/abs/1801.06146)  [![annotated](https://img.shields.io/badge/annotated-paper-blue)](https://github.com/bipinKrishnan/anotated_papers/raw/main/ULMFiT.pdf)
     
